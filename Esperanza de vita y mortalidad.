@@ -1,5 +1,7 @@
-
-El objetivo era visualizar datos de población por pais y continente, a la vez que visualizar indicadores de esperanza de vida y mortalidad infantil. Es un proyecto relativamente simple y de bajo nivel, cuya única finalidad es iniciarse en Power BI y familiarizarse con indicadores, tarjetas y alguna medida simple.
+# Proyecto Power Bi:
+## Indicadores de esperanza de vida y mortalidad infantil.
+El objetivo era visualizar datos de población por pais y continente, a la vez que visualizar indicadores de esperanza de vida y mortalidad infantil. 
+Es un proyecto relativamente simple y de bajo nivel, cuya única finalidad es iniciarse en Power BI y familiarizarse con indicadores, tarjetas y alguna medida simple.
 
 # Objetivos particulares
 Analizar los datos por distintas categorías (continente, grupos de población por cantidad, grupos de esperanza de vida y grupos de mortalidad infantil).
