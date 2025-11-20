@@ -25,6 +25,6 @@ Para que los datos en la tabla estuvieran listos, tuve que transformar los datos
    La gráfica representa la suma de de ventas (mill) frente a los años, con un máximo en 2008. Se observa perfectamente una curva de crecimiento que podría ser exponencial desde los 2000 hasta 2008 y un gran decrecimiento en los siguientes 8 años debido al desuso de estas consolas. Por lo tanto la vida media de estas consolas ha sido de 8 años.
 
 ## Conclusión
-   Los datos dados no obtienen números para la actualidad de los video juegos, sin embargo sigue siendo interesante pues, a la existancia de las nuevas tecnologías como ordenadores y smartphones, se observa claramente un desapego de las consolas y una nueva tendencia a usar estos dispositivos móviles y portátiles como elemento de ocio. Ahora prevalece el poder llevar tu vide juego a cualquier lado, más que jugar en tu propia casa. 
+   Los datos dados no obtienen números para la actualidad de los video juegos, sin embargo sigue siendo interesante pues, a la existancia de las nuevas tecnologías como ordenadores y smartphones, se observa claramente un desapego de las consolas y una nueva tendencia a usar estos dispositivos móviles y portátiles como elemento de ocio. Ahora prevalece el poder llevar tu vide juego a cualquier lado y a la vez jugar en tu propia casa. 
 
 
