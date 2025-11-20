@@ -19,9 +19,12 @@ Para que los datos en la tabla estuvieran listos, tuve que transformar los datos
 
 ## Finalmente se llevarán a cabo unas conclusiones acerca de este proyecto, contestanto a estas preguntas:
 1. ¿Cuáles es el género de video juegos más vendido?
-El género más vendido se trata del género de acción, y además, es mayor en países como EEUU y Europa. Convendría decir que la activación de la violencia en los más pequeños se ve reflejada en la adultez, y podemos verla en cómo la sociedad actual, los jóvenes se ven más irritables que décadas antes de que existiera este género de video juegos.
+   El género más vendido se trata del género de acción, y además, es mayor en países como EEUU y Europa. Convendría decir que la activación de la violencia en los más pequeños se ve reflejada en la adultez, y podemos verla en cómo la sociedad actual, los jóvenes se ven más irritables que décadas antes de que existiera este género de video juegos.
    
 3. ¿De qué forma es la función que representa las ventas por año?
+   La gráfica representa la suma de de ventas (mill) frente a los años, con un máximo en 2008. Se observa perfectamente una curva de crecimiento que podría ser exponencial desde los 2000 hasta 2008 y un gran decrecimiento en los siguientes 8 años debido al desuso de estas consolas. Por lo tanto la vida media de estas consolas ha sido de 8 años.
+
+## Conclusión
    Los datos dados no obtienen números para la actualidad de los video juegos, sin embargo sigue siendo interesante pues, a la existancia de las nuevas tecnologías como ordenadores y smartphones, se observa claramente un desapego de las consolas y una nueva tendencia a usar estos dispositivos móviles y portátiles como elemento de ocio. Ahora prevalece el poder llevar tu vide juego a cualquier lado, más que jugar en tu propia casa. 
 
 
