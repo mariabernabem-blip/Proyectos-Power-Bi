@@ -17,7 +17,7 @@ El archivo de Excel del que hemos obtenido los datos contiene 16327 datos por co
 Para que los datos en la tabla estuvieran listos, tuve que transformar los datos y activar la "anulación de la dinamización de columnas", pues los datos de las ventas venían en columnas separadas y para el buen funcionamiento de la aplicación deben estar en una misma columna.
 
 
-Finalmente se llevarán a cabo unas conclusiones acerca de este proyecto, contestanto a estas preguntas:
+## Finalmente se llevarán a cabo unas conclusiones acerca de este proyecto, contestanto a estas preguntas:
 1. ¿Cuáles es el género de video juegos más vendido?
 El género más vendido se trata del género de acción, y además, es mayor en países como EEUU y Europa. Convendría decir que la activación de la violencia en los más pequeños se ve reflejada en la adultez, y podemos verla en cómo la sociedad actual, los jóvenes se ven más irritables que décadas antes de que existiera este género de video juegos.
    
