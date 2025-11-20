@@ -26,8 +26,8 @@ Modelado de Datos: Se explica brevemente la importancia del modelado (especialme
 
 Vista de Datos: Cómo usar la vista de datos para realizar análisis rápidos, como filtros, ordenaciones y la aplicación de formatos a las columnas (ej. cambiar la columna de ventas a formato de separador de miles). Para que los datos en la tabla estuvieran listos, tuve que transformar los datos y activar la "anulación de la dinamización de columnas", pues los datos de las ventas venían en columnas separadas y para el buen funcionamiento de la aplicación deben estar en una misma columna.
 
-## Visualización y Creación del Reporte
-Visualización de Datos (Parte 1): Creación de las primeras visualizaciones:
+## Visualización y Creación del Report
+·Creación de las primeras visualizaciones:
 
 Una Tabla con el detalle de Nombre, Año y Ventas.
 
@@ -37,7 +37,7 @@ Un Gráfico de Anillo (Dona) para ver el porcentaje de ventas por región.
 
 Se muestra la interactividad básica de Power BI (cómo la selección en un gráfico filtra a los demás).
 
-Visualización de Datos (Parte 2): Se agregan más gráficos y herramientas de filtrado:
+·Se agregan más gráficos y herramientas de filtrado:
 
 Gráficos de Barras Horizontales (copiados y modificados) para mostrar las ventas por Plataforma y por Género.
 
