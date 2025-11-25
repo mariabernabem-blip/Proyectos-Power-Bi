@@ -1,4 +1,5 @@
 #Proyecto 2:
+
 El equipo directivo requiere conocer los indicadores de Beneficios ($) y de % Proporción respecto a Ingresos, para así poder medir el desempeño de los productos y regiones, para poder desarrollar estrategias.
 
 ## Obtener datos de Excel
