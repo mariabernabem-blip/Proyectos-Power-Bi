@@ -34,22 +34,23 @@ Una Tabla con el detalle de Nombre, Año y Ventas.
 
 Un Gráfico de Columnas Agrupadas para analizar las ventas por año.
 
-Un Gráfico de Anillo (Donut) para ver el porcentaje de ventas por región.
+Un Gráfico de Anillo para ver el porcentaje de ventas por región.
 
 Se muestra la interactividad básica de Power BI (cómo la selección en un gráfico filtra a los demás).
 
 ·Se agregan más gráficos y herramientas de filtrado:
 
-Gráficos de Barras Horizontales (copiados y modificados) para mostrar las ventas por Plataforma y por Género.
+Gráficos de Barras Horizontales para mostrar las ventas por Plataforma y por Género.
 
-Una Tarjeta (Card) que muestra el total de copias vendidas en millones, la cual se actualiza con cada filtro.
+Una Tarjeta que muestra el total de copias vendidas en millones, la cual se actualiza con cada filtro.
 
-Segmentaciones de Datos (Slicers): Se agregan filtros desplegables para Año, Región, Género, Plataforma y Editorial, lo que permite la interacción dinámica por el usuario.
+Segmentaciones de Datos: Se agregan filtros desplegables para Año, Región, Género, Plataforma y Editorial, lo que permite la interacción dinámica por el usuario.
 
 El archivo de Excel del que hemos obtenido los datos contiene 16327 datos por columna, por lo tanto, la aplicación de Power Bi nos impulsa a usarla debido al extenso de los datos.
 
 
 ## Finalmente se llevarán a cabo unas conclusiones acerca de este proyecto, contestanto a estas preguntas:
+
 1. ¿Cuáles es el género de video juegos más vendido?
    El género más vendido se trata del género de acción, y además, es mayor en países como EEUU y Europa. Convendría decir que la activación de la violencia en los más pequeños se ve reflejada en la adultez, y podemos verla en cómo la sociedad actual, los jóvenes se ven más irritables que décadas antes de que existiera este género de video juegos.
    
