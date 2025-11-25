@@ -13,13 +13,13 @@ Conexión a Datos de Excel: El proceso para importar la tabla de ventas de video
 
 ## Preparación de Datos (Power Query Editor):
 
-Eliminación de columnas innecesarias (ej. la columna de ventas global).
+Eliminación de columnas innecesarias (la columna de ventas global).
 
-Anulación de dinamización de columnas (Unpivot Columns): La técnica clave para transformar las columnas de ventas por región (ventas en NA, ventas en EU, etc.) en solo dos columnas: una de "Región" y otra de "Ventas", que es el formato ideal para Power BI.
+Anulación de dinamización de columnas: La técnica clave para transformar las columnas de ventas por región (ventas en NA, ventas en EU, etc.) en solo dos columnas: una de "Región" y otra de "Ventas", que es el formato ideal para Power BI.
 
-Renombrar y reemplazar valores en las nuevas columnas (ej. cambiar "Ventas en EA" a "Norteamérica").
+Renombrar y reemplazar valores en las nuevas columnas (cambiar "Ventas en EA" a "Norteamérica").
 
-Asegurar que el tipo de datos de cada columna sea correcto (ej. cambiar el campo "Año" a tipo Texto para evitar que se sume).
+Asegurar que el tipo de datos de cada columna sea correcto (cambiar el campo "Año" a tipo Texto para evitar que se sume).
 
 ## Modelado y Análisis Rápido
 
