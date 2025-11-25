@@ -1,6 +1,5 @@
 #Proyecto 2:
-
-El equipo directivo requiere conocer los indicadores de Beneficios ($) y de % Proporción respecto a Ingresos, para así poder medir el desempeño de los productos y regiones, para poder desarrollar estrategias.
+##El equipo directivo requiere conocer los indicadores de Beneficios ($) y de % Proporción respecto a Ingresos, para así poder medir el desempeño de los productos y regiones, para poder desarrollar estrategias.
 
 ## Obtener datos de Excel
 Se realiza la conexión a la fuente de datos (archivos de Excel) utilizando la opción Obtener datos y se cargan las tablas al modelo de datos de Power BI Desktop. 
