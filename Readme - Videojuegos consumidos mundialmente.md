@@ -1,4 +1,4 @@
-# Proyecto Power Bi:
+# Proyecto 1:
 ## Un análisis mediante Power Bi de los video juegos más consumidos mundialmente (desde 1980 hasta 2017)
 
 ## Objetivos
