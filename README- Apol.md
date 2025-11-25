@@ -7,7 +7,7 @@ Se realiza la conexión a la fuente de datos (archivos de Excel) utilizando la o
 ## Preparación de datos
 De las dos tablas de datos obtenidas hay que limpiar y organizar en Power Query:
 
-· Modelado de datos
+· Modelado de datos (ETL)
 
 De las tablas de datos hay que crear estructuras que permitan relacionar los datos. Realizamos transformaciones de datos específicas dentro de Power Query, como la limpieza de filas no deseadas (ej. títulos fuera de la tabla), división de columnas (ej. separando país y continente) y el manejo de formatos de datos. Navegamos a la Vista de Modelo para establecer y gestionar las relaciones entre las diferentes tablas cargadas, asegurando un modelo de datos correcto para el análisis.
 
